@@ -1,0 +1,3 @@
+[submodule "delta-compress"]
+	path = delta-compress
+	url = https://github.com/nezuo/delta-compress
